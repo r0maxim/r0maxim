@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**r0maxim/r0maxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maxim, a cloud learner based in Romania.
 
-Here are some ideas to get you started:
+I specialize in Microsoft Azure administration, CI/CD pipelines using the Azure DevOps or GitHub Actions and IaC using Terraform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm improving my GitHub portfolio.
+
+---
+## Active Certifications:
+ - AZ-104 Azure Administrator
+ - AZ-400 DevOps Expert
+ - HashiCorp Certified: Terraform Associate 004
+
+---
+## A Bit About Me:
+ - 🔠I speak English, Russian and Romanian fluently
+ - 📈Stock market investor
+ - 💪Gym member
